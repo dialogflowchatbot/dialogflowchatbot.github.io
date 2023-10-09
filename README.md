@@ -1,6 +1,9 @@
 # A single file dialog flow chat bot
 This is a software with only one executable file, including a visual process editor and a response system.
 
+## Check out introduction page
+[https://dialogflowchatbot.github.io/](https://dialogflowchatbot.github.io/#/)
+
 ## Get started
 1. Download on [Github release page](https://github.com/dialogflowchatbot/dialogflow/releases)
 1. Run it.
