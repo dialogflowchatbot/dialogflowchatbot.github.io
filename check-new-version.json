@@ -1,8 +1,4 @@
 {
-	"status": 200,
-	"data": {
-		"version": "1.9.3",
-		"changelog": ["Migrated introductory functionality to another project", "Reduced executable file size"]
-	},
-	"err": null
+	"version": "1.9.3",
+	"changelog": ["Migrated introductory functionality to another project", "Reduced executable file size"]
 }
