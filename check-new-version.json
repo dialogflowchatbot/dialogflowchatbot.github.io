@@ -1,5 +1,4 @@
 {
-    "status": 200,
-    "data": null,
-    "err": null
+	"version": "1.9.3",
+	"changelog": ["Migrated introductory functionality to another project", "Reduced executable file size"]
 }
