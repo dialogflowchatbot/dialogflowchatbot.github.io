@@ -1,4 +1,4 @@
 {
-	"version": "1.9.3",
+	"version": "1.10.0",
 	"changelog": ["Migrated introductory functionality to another project", "Reduced executable file size"]
 }
