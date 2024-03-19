@@ -1,4 +1,4 @@
 {
 	"version": "1.10.0",
-	"changelog": ["Migrated introductory functionality to another project", "Reduced executable file size"]
+	"changelog": ["Added a node for sending emails", "Optimized the flow editor and reduced the number of node loading times"]
 }
