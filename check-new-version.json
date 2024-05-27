@@ -1,4 +1,5 @@
 {
-	"version": "1.10.0",
-	"changelog": ["Added a node for sending emails", "Optimized the flow editor and reduced the number of node loading times"]
+	"version": "1.11.0",
+	"changelog": ["Integrating the embedding capabilities of large language models makes the results of intent recognition more accurate.",
+		"A new node representing the end of the conversation has been added to the flow canvas, making the conversation logic clearer."]
 }
