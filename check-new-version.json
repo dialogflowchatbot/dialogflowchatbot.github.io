@@ -1,5 +1,9 @@
 {
-	"version": "1.11.0",
-	"changelog": ["Integrating the embedding capabilities of large language models makes the results of intent recognition more accurate.",
-		"A new node representing the end of the conversation has been added to the flow canvas, making the conversation logic clearer."]
+	"version": "1.11.1",
+	"changelog": [
+		"Integrating the embedding capabilities of large language models makes the results of intent recognition more accurate.",
+		"A new node representing the end of the conversation has been added to the flow canvas, making the conversation logic clearer.",
+		"Minor changes of intention management.",
+		"Set default embedding model to HuggingFace"
+	]
 }
