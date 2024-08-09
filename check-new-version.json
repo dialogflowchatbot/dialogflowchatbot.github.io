@@ -1,7 +1,7 @@
 {
-	"version": "1.13.0",
+	"version": "1.14.0",
 	"changelog": [
-		"Now can generate text from LLM for text of dialog node.",
-		"Beautified rich text editor."
+		"Improved the stability of intent recognition.",
+		"A number of bugs have been fixed."
 	]
 }
