@@ -1,7 +1,8 @@
 {
-	"version": "1.14.0",
+	"version": "1.15.0",
 	"changelog": [
-		"Improved the stability of intent recognition.",
-		"A number of bugs have been fixed."
+		"Added `Proxy` option for `OpenAI` and `Ollama` HTTP connections on `Settings` page.",
+		"Some minor optimizations.",
+		"Prepare for LLM dialog node."
 	]
 }
