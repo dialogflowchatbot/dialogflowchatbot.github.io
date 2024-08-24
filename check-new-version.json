@@ -1,8 +1,7 @@
 {
-	"version": "1.15.0",
+	"version": "1.16.0",
 	"changelog": [
-		"Added `Proxy` option for `OpenAI` and `Ollama` HTTP connections on `Settings` page.",
-		"Some minor optimizations.",
-		"Prepare for LLM dialog node."
+		"Large language chat node is coming!",
+		"Some issues fix."
 	]
 }
