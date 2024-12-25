@@ -1,7 +1,7 @@
 {
-	"version": "1.16.0",
+	"version": "1.17.1",
 	"changelog": [
-		"Large language chat node is coming!",
-		"Some issues fix."
+		"Added a new node: Knowledge base answer node.",
+		"Fixed Goto node can not choose go-to sub-flow issue."
 	]
 }
